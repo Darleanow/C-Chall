@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/jorygrzeszczak/C-Chall/jory",
-      "program": "/Users/jorygrzeszczak/C-Chall/jory/build/Debug/outDebug"
+      "cwd": "/Users/jorygrzeszczak/C-Chall",
+      "program": "/Users/jorygrzeszczak/C-Chall/build/Debug/outDebug"
     }
   ]
 }
