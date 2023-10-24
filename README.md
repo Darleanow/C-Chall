@@ -3,7 +3,7 @@
 ![C Programming](https://img.shields.io/badge/Language-C-brightgreen)
 ![Course Name](https://img.shields.io/badge/Course-C%20Challenges-blue)
 
-Welcome to the "C Challenges" course repository by Damien Nithard. This repository is dedicated to storing and sharing code examples, exercises, and project files related to the course. Whether you are a student looking for resources or an instructor managing the course, you'll find everything you need here.
+Welcome to the "C Challenges" course repository. This repository is dedicated to storing and sharing code examples, exercises, and project files related to the course. Whether you are a student looking for resources or an instructor managing the course, you'll find everything you need here.
 
 ## Table of Contents
 
