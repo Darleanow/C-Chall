@@ -1,12 +1,12 @@
 #include <stdio.h>
-#define PI 3.14159
-#define C ':'
+#define c ':'
 
 void main()
 {
     int r = 20;
-    float area = PI * r * r;
+    double PI = 3.14159;
+    float area = PI*pow(r);
     char v = c;
-    printf("The area of the circle %c %d", C, PI);
+    printf("The area of the circle  %f", area);
     getchar();
 }
