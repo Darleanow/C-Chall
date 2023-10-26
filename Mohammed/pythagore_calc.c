@@ -28,23 +28,23 @@ void main() {
     //switch case
     switch (c) {
         case 1:
-            printf("Saisir ab : \n");
-            scanf("%f \n", &ab);
-            printf("Saisir bc : \n");
+            printf("Saisir ab : ");
+            scanf("%f", &ab);
+            printf("Saisir bc : ");
             scanf("%f", &bc);
             printf("ac = %.2f\n", pythagore(ab, bc));
             break;
         case 2:
-            printf("Saisir ac : \n");
+            printf("Saisir ac : ");
             scanf("%f", &ac);
-            printf("Saisir bc : \n");
+            printf("Saisir bc : ");
             scanf("%f", &bc);
             printf("ab = %.2f\n", pythagore2(ac, bc));
             break;
         case 3:
-            printf("Saisir ac : \n");
+            printf("Saisir ac : ");
             scanf("%f", &ac);
-            printf("Saisir ab : \n");
+            printf("Saisir ab : ");
             scanf("%f", &ab);
             printf("bc = %.2f\n", pythagore3(ac, ab));
             break;
